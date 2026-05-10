@@ -22,7 +22,7 @@ My Focused Area
 5. A beloved Son, Husband and Father of two Lovely Son
 
 Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+![Editing a Markdown file for a talk](/images/bio-photo.jpg)
 
 For more info
 ------
