@@ -1,5 +1,5 @@
 ---
-title: "Electrochemical Biosensors"
+title: "Optochemical sensors for pO2 and pCO2 measurement"
 excerpt: "Biosensors using Aptamer functionalized NAAO membrane for bio-target detection<br/><img src='/images/Project2_O2CO2.png'>"
 collection: portfolio
 ---
