@@ -28,7 +28,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "An engineer"
   location         : "Needham, MA, US"
-  employer         : "Mass General Hospital, Wellman Center for Photomedicine, Dr. Evans' Lab"
+  employer         : >
+    Mass General Hospital
+    Wellman Center for Photomedicine
   uri              : # URL
   email            : "jiangnianyu@outlook.com" 
 
