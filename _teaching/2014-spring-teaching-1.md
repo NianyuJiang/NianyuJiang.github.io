@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-fall-teaching
 venue: "IOWA State University"
-date: 2018-fall to 2019-spring
+date: 2018-fall
 location: "Ames, IOWA"
 ---
 
