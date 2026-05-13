@@ -35,30 +35,28 @@ Skills
 ======
 * R&D
   My R&D focus on integrating mechanical & electrical knowledge for translational research towards healthcare product. The R&D sits on deep and frequent collaboration between multiple labs and hospital clinicians to prototype a clinical applicable devices for better patient outcomes.
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  Example:
+  * I collaborate with thoracic surgeon to prototype a portable pneumothorax diagnose and treatment device, followed by one successful animal trail.
+  * I collaborate with doctors and nurses at neonate ICU to prototype a wearable non-invasive blood gas device, about to start animal study.
+  * I collaborate with cardiovascular surgeon to prototype a portable blood gas device added to arterial line, followed by two finished animal trails.
+* Engineering & bio & medical-related
+  * Mechanical Engineering:
+    * Basic mechanical structural design, usually accompanied with CAD software. (SolidWorks)
+    * Finite element analyze, comes with software. (COMSOL, Matlab)
+    * Motion simulation and control. (Matlab)
+  * Electrical Engineering:
+    * Basic electrical system design and fabrication. (KiCad, EAGLE)
+    * Firmware writing and debug. (Zephyr for IOT, C, Python)
+    * App design. (
+  * Biochemistry & Molecular Biology:
+  * Optochemistry:
+* Collaboration:
+  * Massive communication experience between research Lab & research Lab, research Lab & clinicians.
+  * Quick and clear understanding core requirement from clinical side.
+  * Connect and coordinate between different expertise for animal trails.
+  * Clear writing and expression to fill gaps between researchers and clinicians.
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently leading a four-person engineering team in Evans' Lab for medical device R&D.
+* Used to lead the electrochemical biosensor design across molecular biology, material science and mechanical engineering teams.
