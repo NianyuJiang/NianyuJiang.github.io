@@ -18,7 +18,8 @@ My Critical role and Accomplishment:
 5. Performed animal study and patient study to collect and analyze data.
 
 This work successfully contributes to these projects:
-1. Portable/Wearable blood gas monitoring system. <br/><img src='/images/NICU_MINI on baby.png' width='200'>
-2. Neonate non-invasive blood gas monitoring in NICU
-3. Wearable capnography (end-tidal CO2) device for EMS
-4. Tiny organ status monitoring in ECMO system.
+1. Portable/Wearable blood gas monitoring system.
+<!-- <br/><img src='/images/NICU_MINI on baby.png' width='200'> -->
+3. Neonate non-invasive blood gas monitoring in NICU
+4. Wearable capnography (end-tidal CO2) device for EMS
+5. Tiny organ status monitoring in ECMO system.
