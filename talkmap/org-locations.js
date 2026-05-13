@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Talk 2 on International Conference on Biosensors and Bioelectronics 2021<br />Singapore City; Singapore City, Singapore",
+    1.2899175,
+    103.8519072
   ],
   [
     "Talk 1 on SES2019<br />Washington University in St. Louis, McKelvey School of Engineering; St. Louis, MO 63130, USA",
