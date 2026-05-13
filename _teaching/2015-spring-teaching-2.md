@@ -1,20 +1,11 @@
 ---
 title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+collection: mentor
+type: "COOP student mentor"
+permalink: /teaching/2026-spring-mentor-1
+venue: "Evans' Lab, Wellman center for photomedicine, Mass General Hospital"
+date: 2026-02-01
+location: "Boston, MA, US"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Mentoring a CO-OP student in the Lab to device prototyping.
