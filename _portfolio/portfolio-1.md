@@ -1,6 +1,6 @@
 ---
 title: "Electrochemical Biosensors"
-excerpt: "Biosensors using Aptamer functionalized NAAO membrane for bio-target detection<br/><img src='/images/Project1_EISsensor.png' width='300'>"
+excerpt: "Biosensors using Aptamer functionalized NAAO membrane for bio-target detection<br/><img src='/images/Project1_EISsensor.png' width='500'>"
 collection: portfolio
 ---
 
