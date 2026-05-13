@@ -1,6 +1,6 @@
 ---
 title: "Portable Pneumothorax Diagnose and Treatment Device"
-excerpt: "A portable device to perform pneumothorax diagnose and treatment at emergency<br/><img src='/images/Project3_Pneu.png'>"
+excerpt: "A portable device to perform pneumothorax diagnose and treatment at emergency<br/><img src='/images/Project3_Pneu.png' width='500'>"
 collection: portfolio
 ---
 
