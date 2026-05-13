@@ -16,3 +16,10 @@ My Critial Role and Accomplishments:
 3. Designed a dual-hydralic locomotive system to advance the catheter while stop at pleural space.
 4. Built and Trained a ML model to recognize the intercostal spaces and pneumothorax sites from the ultrasound image.
 5. Performed an animal study to validate the devices' proof-of-concept with a surgical team.
+
+Animal Trails (video recorded at swine pleural space):
+---
+upper: needle-catheter about to penetrate;
+middle: needle-catheter penetrate and stop at pleural;
+lower: needle retrive, leaving only catheter at pleural.
+<br/><img src='/images/Project4_Pleural.png' width='200'>
