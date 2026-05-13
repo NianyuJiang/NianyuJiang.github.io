@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+* Ph.D in IOWA state university, US, 2018-2022
+* M.S. in Northeastern university, US, 2016-2018
+* B.S. in Shandong university, China, 2012-2016
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Oct 2024 - present: Postdoc Researcher
+  * Mass General Hospital, Evans' Lab
+  * Duties includes: Mechanical and Electrical Engineering R&D for Medical Devices
+  * Supervisor: Dr. Conor Evans
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct 2022 - Oct 2024: Postdoc Researcher
+  * Mass General Hospital, Anderson' Lab
+  * Duties included: Mechanical and Electrical Engineering R&D for Medical Devices
+  * Supervisor: Dr. Jeffrey Shuhaiber & Dr. Rox Anderson
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2013 - Fall 2016: Research Assistant
+  * IOWA state University
+  * Duties included: Mechanical and Electrical Engineering R&D Electrochemical biosensors
+  * Supervisor: Dr. Pranav Shrotriya & Dr. Marit Neilson-Hamnilton
   
 Skills
 ======
-* Skill 1
+* R&D
+  My R&D focus on integrating mechanical & electrical knowledge for translational research towards healthcare product. The R&D sits on deep and frequent collaboration between multiple labs and hospital clinicians to prototype a clinical applicable devices for better patient outcomes.
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
