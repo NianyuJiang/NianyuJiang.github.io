@@ -5,6 +5,11 @@ var addressPoints = [
     103.8519072
   ],
   [
+    "Conference Presentation at ASBMB 2022<br />PENNSYLVANIA CONVENTION CENTER; Philadelphia, US",
+    39.9527237,
+    -75.1635262
+  ],
+  [
     "Conference presentation at SES2019<br />Washington University in St. Louis, McKelvey School of Engineering; St. Louis, MO 63130, USA",
     38.6254063,
     -90.190009
