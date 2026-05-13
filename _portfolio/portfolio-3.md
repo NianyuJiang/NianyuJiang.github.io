@@ -19,7 +19,5 @@ My Critial Role and Accomplishments:
 
 Animal Trails (video recorded at swine pleural space):
 ---
-upper: needle-catheter about to penetrate;
-middle: needle-catheter penetrate and stop at pleural;
-lower: needle retrive, leaving only catheter at pleural.
+upper: needle-catheter about to penetrate; <br/>middle: needle-catheter penetrate and stop at pleural; <br/>lower: needle retrive, leaving only catheter at pleural.
 <br/><img src='/images/Project4_Pleural.png' width='200'>
