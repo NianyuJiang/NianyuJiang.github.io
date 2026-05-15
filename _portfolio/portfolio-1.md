@@ -24,7 +24,7 @@ At Biochemisty & Molecular Biology side:
 
 This work successfully contributes to these projects:
 ---
-1. Amodiaquine detection in PS buffer (for drug detection)
+1. Amodiaquine detection in PS buffer (for drug detection) [https://www.mdpi.com/2072-666X/16/1/35]
 2. Ebola (pseudo typed) virus particle detection in PS buffer (for virus detection)
 3. UTC mRNA detection in PS buffer (for oligonucleotides detection)
 4. HSL detection in agar gel (for quorum sensing diffusion detection)
